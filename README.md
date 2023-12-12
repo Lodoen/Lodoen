@@ -1,5 +1,5 @@
 # Lodoen
-![lodoen-duck-gif-medium](https://github.com/Lodoen/Lodoen/assets/95305401/5d022887-fd3c-4919-b662-ac1ad1a8e5b1)
+![jonas-lodoen](https://github.com/Lodoen/Lodoen/assets/95305401/5ecf4d61-0e86-44b1-8bde-63539c70e266)
 
 ## About Me
 - 🇳🇴 No(r)way!
