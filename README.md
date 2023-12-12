@@ -1,10 +1,10 @@
-# Jonas Lødøen
-![jonas-lodoen](https://github.com/Lodoen/Lodoen/assets/95305401/5ecf4d61-0e86-44b1-8bde-63539c70e266)
+# Lodoen
+![lodoen-duck-gif-medium](https://github.com/Lodoen/Lodoen/assets/95305401/5d022887-fd3c-4919-b662-ac1ad1a8e5b1)
 
 ## About Me
-- 🇳🇴 No way! I was born and raised in Norway!
-- 🎓 I graduated from Noroff with a degree in Front-end Development.
-- 👨‍💻 I'm enthusiastic about accessible web development, and I'm always trying to learn something new.
+- 🇳🇴 No(r)way!
+- 🎓 Degree in Front-end Development.
+- 👨‍💻 Accessible web development, always learning something new.
 - 🦆 Full-time web developer, fuller-time duck enthusiast.
 
 <br/>
